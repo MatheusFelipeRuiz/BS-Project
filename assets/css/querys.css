@@ -1,0 +1,12 @@
+@media (max-width: 500px) {
+  .height-mobile-control {
+    height: 200px;
+  }
+}
+
+@media (max-width: 766px) {
+  .height-tablet-control {
+    max-height: 300px;
+  }
+}
+
